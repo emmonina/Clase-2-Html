@@ -1,0 +1,22 @@
+#titulo { color: teal;}
+
+.destacado  { color :orange;}
+
+p span { color :red;}
+
+ a  { color :red;}
+ em {color: blue ;}
+
+h2{color: blue ;}
+
+.especial  { color : purple;}
+
+
+div {color: olive ;}
+
+#adicional span#especial {color:purple ;}
+#adicional p a {color: green ;}
+
+table {border:1px blue  solid}
+
+table td, th, tr  {border:1px blue  solid}
